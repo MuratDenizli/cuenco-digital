@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icon-arrow{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    border-radius: 5px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+.chevron-left{
+    height: 20px;
+    width: 20px;
+}
+
+.cuenco-text{
+    height: 50px;
+    flex: 1;
+    fill: #72a200 !important;
+}
+
+.categories{
+    margin-top: 30px;
+    margin-left: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+}
+
+.categories::-webkit-scrollbar {
+    display: none;
+}

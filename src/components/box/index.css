@@ -1,0 +1,46 @@
+.box {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1;
+  margin-left: 20px;
+}
+
+.img{
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.description {
+  color: #c7c7c7;
+  margin-bottom: 10px;
+}
+
+.price-area {
+  margin-bottom: 10px;
+}
+
+.price-icon {
+  color: #e60023;
+  font-size: 20px;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: 500;
+}
