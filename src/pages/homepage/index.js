@@ -30,7 +30,7 @@ function Homepage() {
             <div className='menu'>
                 <div className='categories'>
                     {menuData.map((data, i) =>
-                        <Button key={i} isActive={active.name == data.name} name={data.name} onClick={(e) => handleAnchorClick(e, data.name)} />
+                        <Button key={i} isActive={active.name === data.name} name={data.name} onClick={(e) => handleAnchorClick(e, data.name)} />
                     )}
                 </div>
                 <div>
