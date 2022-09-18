@@ -1,7 +1,7 @@
 {
-  "menudata": [
+  "data": [
     {
-      "kahvaltilar": [
+      "list": [
         {
           "name": "Serpme Kahvaltı (2 kişilik)",
           "description": "Çeçil peyniri, beyaz peynir,burgu peyniri, eski kaşar, hellim peyniri, siyah zeytin, tahin, pekmez, sürk peyniri, süt reçeli, nutella, fit şeftali reçeli, muammara, süzme yoğurtlu kabak, bal, kaymak, fit portakal reçeli, iki dilim su böreği, patates kızartması, söğüş, domates, akdeniz yeşillikleri, ceviz, kayısı, sahanda yumarta, simit ve bir pot çay",
@@ -24,7 +24,7 @@
       "name": "Kahvaltılar"
     },
     {
-      "omletler": [
+      "list": [
         {
           "name": "Sade Omlet",
           "description": "Akdeniz yeşillikleri ile",
@@ -59,7 +59,7 @@
       "name": "Omletler"
     },
     {
-      "menemenler": [
+      "list": [
         {
           "name": "Sade Menemen",
           "description": "Yumurta, demko sos, yeşil biber",
@@ -76,7 +76,7 @@
       "name": "Menemenler"
     },
     {
-      "kuruvasanlar": [
+      "list": [
         {
           "name": "Cuenco Kruvasan",
           "description": "Kruvasan, Süt reçeli, krema, nutella",
@@ -117,7 +117,7 @@
       "name": "Kruvasanlar"
     },
     {
-      "pancakes": [
+      "list": [
         {
           "name": "Nutellalı Pancakes",
           "description": "Nutella, 4 dilim pankek, muz, çilek, çikolata sosu",
@@ -134,7 +134,7 @@
       "name": "Pancakes"
     },
     {
-      "tartines": [
+      "list": [
         {
           "name": "Avakado Poşe Yumurta",
           "description": "Ekşi maya ekmek üzeri; avokado, poşe yumurta, akdeniz yeşillikleri ile",
@@ -157,7 +157,7 @@
       "name": "Tartines"
     },
     {
-      "tostlar": [
+      "list": [
         {
           "name": "Trüf Tost",
           "description": "Brioche ekmeği üzerine; emmantel peyneri, dana bacon, trüf yağı, akdeniz yeşillikleri ile",
@@ -186,7 +186,7 @@
       "name": "Tostlar"
     },
     {
-      "başlangıçlar": [
+      "list": [
         {
           "name": "Cuenco Meze",
           "description": "Muhammara, humus, girit ezmesi, tortilla cipsi",
@@ -227,7 +227,7 @@
       "name": "Başlangıçlar"
     },
     {
-      "burgerler": [
+      "list": [
         {
           "name": "Cuenco Burger",
           "description": "200gr hamburger köftesi, karamelize soğan, demiglace sos, patates kızartması ile",
@@ -256,7 +256,7 @@
       "name": "Burgerler"
     },
     {
-      "anayemekler": [
+      "list": [
         {
           "name": "Izgara Köfte",
           "description": "200gr kasap köftesi, patetes kızartması, basmati pilav ile",
@@ -291,7 +291,7 @@
       "name": "Ana Yemekler"
     },
     {
-      "makarnalar": [
+      "list": [
         {
           "name": "Spagetti Bolonez",
           "description": "Bolonez sos ile",
@@ -320,7 +320,7 @@
       "name": "Makarnalar"
     },
     {
-      "bowls": [
+      "list": [
         {
           "name": "Vegan Bowl",
           "description": "Falafel topları, kale yeşilliği, sotelenmiş sebzeler, julian biber, pancarlı kuskus, tahinli yoğurtlu sos",
