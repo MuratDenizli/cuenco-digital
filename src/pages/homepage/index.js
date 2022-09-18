@@ -21,6 +21,11 @@ function Homepage() {
             </div>
             <div>
                 <Box/>
+                <Box/>
+                <Box/>
+                <Box/>
+                <Box/>
+                <Box/>
             </div>
         </div>
     );

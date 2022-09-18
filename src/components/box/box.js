@@ -1,12 +1,12 @@
 import './index.css';
 
-import logo from './../../assets/images/logo.png';
+import logo from './../../assets/images/yemek.jpeg';
 
 function Box(props) {
     return (
         <div className='box'>
             <div className='img'>
-                <img src={logo} height={90} width={90}></img>
+                <img src={logo}></img>
             </div>
             <div className='content'>
                 <span className='name'>Fried Chicken</span>

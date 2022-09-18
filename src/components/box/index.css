@@ -16,8 +16,14 @@
   margin-left: 20px;
 }
 
-.img{
-  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+.img {
+  height: 90px;
+  width: 90px;
+}
+
+.img img{
+    height: 90px;
+    width: 90px;
 }
 
 .name {
