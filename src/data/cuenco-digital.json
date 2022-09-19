@@ -353,6 +353,158 @@
         }
       ],
       "name": "Cuenco Bowls"
+    },
+    {
+      "list": [
+        {
+          "name": "Healty Bowl",
+          "description": "Muz, çilek, süzme yoğurt, granola, hisdistan cevizi ile",
+          "price": "70",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Kakao Bowl",
+          "description": "Hurma, muz, granola, ham kakao, hisdistan cevizi ile",
+          "price": "72",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Akai Bowl",
+          "description": "Böğürtlen, muz, chia tohumu, granola, hisdistan cevizi ile",
+          "price": "68",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Granola Cookie Bowl",
+          "description": "Rafine şekersiz yulaflı çikolatalı cookie, hisdistan cevizli şekerli karamel, süzme yoğurt, böğürtlen ile",
+          "price": "75",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Breakfast Pudding Bowl",
+          "description": "Rafine şekersiz pudding, muz, yulaf unlu cookie parçacıkları, böğürtlen ile",
+          "price": "74",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        }
+      ],
+      "name": "Smoothie Bowls"
+    },
+    {
+      "list": [
+        {
+          "name": "Avakado Salatası",
+          "description": "Avakado, salatalık, çeri domates, nane, kinoa, balsemik sos ile",
+          "price": "95",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Kahvaltı Salatası",
+          "description": "Ezine peyniri, dilim zeytin, yeşil biber, çeri domates, simit, nar eksi sosu, balzemik sosu ile",
+          "price": "78",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Kale Salatası",
+          "description": "Kale yeşilliği, yeşil elma, turp, badem parçaları, kuru üzüm, kinoa, hardallı protakallı vinegret sosu ile",
+          "price": "94",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Cuenco Salatası",
+          "description": "Akdeniz yeşilliği, lollorosso, pancar dilimleri, ceviz, tulum peyniri, tahin sos ile",
+          "price": "81",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Sezar Salatası",
+          "description": "Marul, ızgara tavuk, kroton, sezar sos, permasan peyniri ile",
+          "price": "86",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        }
+      ],
+      "name": "Salatalar"
+    },
+    {
+      "list": [
+        {
+          "name": "Bademli Kek",
+          "description": "Çiğ karabuğday, çiğ badem unu, hurma suyu ile tatlandırılmış",
+          "price": "35",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Cuenco Cookie",
+          "description": "Hisdistan cevizi şekerli, bitter çikolata parçalı, cevizli, tam tahıl unlu, beyaz çikolata parçacıklı",
+          "price": "38",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Unsuz Cookie",
+          "description": "Yer fıstığı ezmesi, hurma suyu, çia, çikolata parçacıklı",
+          "price": "38",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Havuçlu Dilim Kek",
+          "description": "Hurma suyu ile tatlandırılmış, cevizli, tarçınlı, tam buğday unlu",
+          "price": "35",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Baks Cheesecake",
+          "description": "Hindistan cevizi şekeri, tam buğday unlu, rafine şekersiz, hindistan cevizi ile",
+          "price": "42",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Yulaf Chocolate Chip Cookie",
+          "description":"Yulaf unu, hurma suyu, bitter çikolata, hisdistan cevizi yağı",
+          "price":"39",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        }
+      ],
+      "name": "Cuenco Fit Tatlılar"
+    },
+    {
+      "list": [
+        {
+          "name": "Makaron",
+          "description": "Frambuaz veya limon veya çikolata veya fıstık çeşitleri ile",
+          "price": "15",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Affogato",
+          "description": "Bir shot espresso, magnum, 30ml sütü",
+          "price": "45",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Magnolia",
+          "description": "Çilekli, muzlu veya lotus bisküvili",
+          "price": "49",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Nutellalı Cookie",
+          "description": "Hurma suyu ile tatlandırılmış, cevizli, tarçınlı, tam buğday unlu",
+          "price": "35",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Baz Cheesecake",
+          "description": "Hindistan cevizi şekeri, tam buğday unlu, rafine şekersiz, hindistan cevizi ile",
+          "price": "42",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        },
+        {
+          "name": "Yulaf Chocolate Chip Cookie",
+          "description":"Yulaf unu, hurma suyu, bitter çikolata, hisdistan cevizi yağı",
+          "price":"39",
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+        }
+      ],
+      "name": "Tatlılar"
     }
   ]
 }
