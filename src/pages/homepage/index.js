@@ -4,7 +4,7 @@ import chevronLeft from './../../assets/icons/chevron-left-solid.svg';
 import Button from '../../components/button/button';
 import Box from '../../components/box/box';
 import cuencoData from '../../../src/data/cuenco-digital.json'
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
 function Homepage() {
@@ -19,6 +19,14 @@ function Homepage() {
         const filterList = cuencoData.data.find(item => item.name === name).list;
         setFilterList(filterList);
     };
+
+    useEffect(() => {
+        window.scroll({
+            top: 0,
+            left: 0,
+            behavior: 'smooth',
+        });
+    })
 
     return (
         <div>

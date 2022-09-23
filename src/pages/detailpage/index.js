@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import './index.css';
 import chevronLeft from './../../assets/icons/chevron-left-solid.svg';
 import timer from './../../assets/icons/timer.svg';
@@ -8,6 +8,7 @@ import cuencoData from './../../data/cuenco-digital.json'
 function Detailpage() {
     const { id } = useParams();
     const data = getItem(id);
+    const navigate = useNavigate();
 
     function getItem(id) {
         let result = {};
@@ -26,7 +27,7 @@ function Detailpage() {
         <div>
             <div className="header">
                 <div className='icon-arrow'>
-                    <img className='chevron-left' src={chevronLeft} alt='left' />
+                    <img className='chevron-left' src={chevronLeft} alt='left' onClick={() => { navigate(-1) }} />
                 </div>
                 <img className='cuenco-text' src={cuenco} alt='cuenco-text' />
             </div>

@@ -2,6 +2,11 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  top: 0;
+  padding-top: 20px;
 }
 
 .icon-arrow {
@@ -13,6 +18,7 @@
   box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
   align-items: center;
   justify-content: center;
+  position: absolute;
 }
 
 .chevron-left {
@@ -28,7 +34,7 @@
 }
 
 .detail-content {
-  margin-top: 20px;
+  margin-top: 100px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -61,8 +67,8 @@
   text-align: center;
 }
 
-.detail{
-    margin-top:10px;
+.detail {
+  margin-top: 10px;
 }
 
 .detail-box {
@@ -81,6 +87,6 @@
   color: #72a200 !important;
 }
 
-.detail-desc{
-    margin-left: 20px;
+.detail-desc {
+  margin-left: 20px;
 }
