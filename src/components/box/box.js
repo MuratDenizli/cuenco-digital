@@ -1,13 +1,12 @@
 import './index.css';
 
-import logo from './../../assets/images/yemek.jpeg';
 
 function Box(props) {
     const { name, description, price, img } = props.data;
     return (
         <div className='box'>
             <div className='img'>
-                <img src={logo}></img>
+                <img src={img}></img>
             </div>
             <div className='content'>
                 <span className='name'>{name}</span>

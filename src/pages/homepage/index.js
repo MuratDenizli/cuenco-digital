@@ -5,6 +5,7 @@ import Button from '../../components/button/button';
 import Box from '../../components/box/box';
 import cuencoData from '../../../src/data/cuenco-digital.json'
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 function Homepage() {
     const [menuData, setMenuData] = useState(cuencoData.data);
@@ -35,7 +36,9 @@ function Homepage() {
                 </div>
                 <div>
                     {filterList.map((data, i) =>
-                        <Box key={i} data={data} />
+                        <Link to={`detailpage/${data.id}`}>
+                            <Box key={i} data={data} />
+                        </Link>
                     )}
                 </div>
             </div>

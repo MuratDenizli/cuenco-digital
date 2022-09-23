@@ -3,22 +3,25 @@
     {
       "list": [
         {
+          "id":1,
           "name": "Serpme Kahvaltı (2 kişilik)",
           "description": "Çeçil peyniri, beyaz peynir,burgu peyniri, eski kaşar, hellim peyniri, siyah zeytin, tahin, pekmez, sürk peyniri, süt reçeli, nutella, fit şeftali reçeli, muammara, süzme yoğurtlu kabak, bal, kaymak, fit portakal reçeli, iki dilim su böreği, patates kızartması, söğüş, domates, akdeniz yeşillikleri, ceviz, kayısı, sahanda yumarta, simit ve bir pot çay",
           "price": "270",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":2,
           "name": "Tek Kişilik Kahvaltı",
           "description": "Çeçil peyniri, beyaz peynir, burgu peyniri, eski kaşar, hellim peyniri, siyah zeytin, tahin, pekmez, sürk peyniri, süt reçeli, nutella, fit şeftali reçeli, muammara, bal, kaymak, fit portakal reçeli, su böreği, söğüş, domates, akdeniz yeşillikleri, ceviz, kayısı, haşlanmış yumarta, 2 bardak çay",
           "price": "135",
-          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/10/gozleme.jpg"
         },
         {
+          "id":3,
           "name": "Fit Kahvaltı",
           "description": "Scramble yumurta, lor peyniri, siyah zeytin, avakado püresi, bir çeşit rafine şekersiz fermente reçel, çeri domates, salatalık, yeşillik, badem unundan pancarlı ev yapımı ekmek",
           "price": "120",
-          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/kahvalti-tabagi-scaled.jpg"
         }
       ],
       "name": "Kahvaltılar"
@@ -26,30 +29,35 @@
     {
       "list": [
         {
+          "id":4,
           "name": "Sade Omlet",
           "description": "Akdeniz yeşillikleri ile",
           "price": "35",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":5,
           "name": "Fit Omlet",
           "description": "Yumurta beyazından, akdeniz yeşillikleri ile",
           "price": "37",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":6,
           "name": "Peynirli Omlet",
           "description": "Beyaz peynirli, akdeniz yeşillikleri ile",
           "price": "40",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":7,
           "name": "Otlu Omlet",
           "description": "Maydonoz, dereotu, akdeniz yeşillikleri ile",
           "price": "42",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":8,
           "name": "Mantarlı Kaşarlı Omlet",
           "description": "Mantar, kaşarpeyniri, akdeniz yeşillikleri ile",
           "price": "43",
@@ -61,12 +69,14 @@
     {
       "list": [
         {
+          "id":9,
           "name": "Sade Menemen",
           "description": "Yumurta, demko sos, yeşil biber",
           "price": "48",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":10,
           "name": "Sucuklu Kaşarlı Menemen",
           "description": "Yumurta, demko sos, yeşil biber, kaşar peyniri, kasap sucuğu",
           "price": "55",
@@ -78,36 +88,42 @@
     {
       "list": [
         {
+          "id":11,
           "name": "Cuenco Kruvasan",
           "description": "Kruvasan, Süt reçeli, krema, nutella",
           "price": "74",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":12,
           "name": "Cheddar Sosis Kruvasan",
           "description": "Cheddar sosis, sade kruvasan, scramble yumarta, akdeniz yeşillikleri ile",
           "price": "85",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":13,
           "name": "Cuenco Fit Reçel Kruvansan Tabağı",
           "description": "Üç çeşit rafine şekersiz reçel (portakal, vişne, çilek), tam buğday unlu kruvasan",
           "price": "85",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":14,
           "name": "Avakado Folded Kruvasan",
           "description": "Kruvan, avokado püresi, folded yumurta, akdeniz yeşillikleri ile",
           "price": "75",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":15,
           "name": "Cuenco Tuna Kruvasan",
           "description": "Ton balığı, çeri domates, avokado, fesleğen, dereotu, mısır",
           "price": "73",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":16,
           "name": "Cuenco Benedict",
           "description": "Kruvasan, dana janbon, poşe yumurta, hollandaise sos, akdeniz yeşillikleri ile",
           "price": "78",
@@ -119,12 +135,14 @@
     {
       "list": [
         {
+          "id":17,
           "name": "Nutellalı Pancakes",
           "description": "Nutella, 4 dilim pankek, muz, çilek, çikolata sosu",
           "price": "64",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":18,
           "name": "Cuenco Pancakes",
           "description": "Fit reçel (Portakal, çilek, ahudu), çilek, muz",
           "price": "67",
@@ -136,18 +154,21 @@
     {
       "list": [
         {
+          "id":19,
           "name": "Avakado Poşe Yumurta",
           "description": "Ekşi maya ekmek üzeri; avokado, poşe yumurta, akdeniz yeşillikleri ile",
           "price": "67",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":20,
           "name": "English Breakfast",
           "description": "Brioche ekmeği üzerine; folded yumurta, kokteyl sosis, çeri domates, mantar, havuç sote",
           "price": "67",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":21,
           "name": "Avakado Folded Brioche",
           "description": "Brioche ekmeği üzerine; avakado püresi, folded yumurta, akdeniz yeşillikleri ile",
           "price": "69",
@@ -159,24 +180,28 @@
     {
       "list": [
         {
+          "id":22,
           "name": "Trüf Tost",
           "description": "Brioche ekmeği üzerine; emmantel peyneri, dana bacon, trüf yağı, akdeniz yeşillikleri ile",
           "price": "65",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":23,
           "name": "Bazlama Tost",
           "description": "Cheddar peyniri, kaşar peyniri, pesto sos, akdeniz yeşillikleri ile",
           "price": "63",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":24,
           "name": "Ekşi Mayalı Tost",
           "description": "Çeçil peyniri, domates, taze kekikli akdeniz yeşillikleri",
           "price": "61",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":25,
           "name": "Cuenco Tost",
           "description": "Beyaz Peynir, domates, jalapone turşu",
           "price": "55",
@@ -188,36 +213,42 @@
     {
       "list": [
         {
+          "id":26,
           "name": "Cuenco Meze",
           "description": "Muhammara, humus, girit ezmesi, tortilla cipsi",
           "price": "89",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":27,
           "name": "Çıtır Tavuk",
           "description": "Churs patetes, acı sos, sweet chiilli sos",
           "price": "63",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":28,
           "name": "Falafel",
           "description": "Altına tahin; yoğurt ile altı adet falafel topu",
           "price": "60",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":29,
           "name": "Coenco Guacomelo Sos ile Tortilla Cips",
           "description": "Avokado püresi, kapya biber, çeri domates ve tortilla ekmeği",
           "price": "78",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":30,
           "name": "Parmasanlı Trüf Patetes Kızartması",
           "description": "Parmasan trüf yağı ile",
           "price": "58",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":31,
           "name": "Edamame",
           "description": "Soya fasulyesi ve deniz tuzu ile",
           "price": "45",
@@ -229,24 +260,28 @@
     {
       "list": [
         {
+          "id":32,
           "name": "Cuenco Burger",
           "description": "200gr hamburger köftesi, karamelize soğan, demiglace sos, patates kızartması ile",
           "price": "75",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":33,
           "name": "Cheese Burger",
           "description": "200gr hamburger köftesi, karamelize soğan, demiglace sos, cheddar peyniri, patates kızartması ile",
           "price": "78",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":34,
           "name": "Avokado Burger",
           "description": "180gr etsiz köfte, avokado, avakado püresi, dilimlenmiş avakado, akdeniz yeşillikleri ile",
           "price": "95",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":35,
           "name": "Cuenco Tavuk Burger",
           "description": "180gr fileto tavuk, demiglace sos, cheddar peyniri, patetes kızartması ile",
           "price": "71",
@@ -258,30 +293,35 @@
     {
       "list": [
         {
+          "id":36,
           "name": "Izgara Köfte",
           "description": "200gr kasap köftesi, patetes kızartması, basmati pilav ile",
           "price": "120",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":37,
           "name": "Izgara Tavuk",
           "description": "180gr tavuk fileto, patetes kızartması, basmati pilav ile",
           "price": "85",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":38,
           "name": "Mantar Soslu Izgara Tavuk",
           "description": "Kusku ve sote sebze ile",
           "price": "85",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":39,
           "name": "Bibimbap",
           "description": "Kore usulü baharatlı kıyma, göz yumurta, sriracha soslu basmati, kabak spagetti, salatalık turşusu, kimchi ile",
           "price": "98",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":40,
           "name": "Izgara Somon",
           "description": "200gr somon, pesto sos, sote sebze",
           "price": "225",
@@ -293,24 +333,28 @@
     {
       "list": [
         {
+          "id":41,
           "name": "Spagetti Bolonez",
           "description": "Bolonez sos ile",
           "price": "65",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":42,
           "name": "Tavuklu Penne",
           "description": "Kremalı tavuk, mantar, pesto sos ile",
           "price": "64",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":43,
           "name": "Cuenco Fettuccine",
           "description": "Krema porçini mantarlı, trüf yağ ile",
           "price": "71",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":44,
           "name": "Filizlendirilmiş Çiğ Karabuğday Makarnası",
           "description": "Domates sos ile",
           "price": "65",
@@ -322,30 +366,35 @@
     {
       "list": [
         {
+          "id":45,
           "name": "Vegan Bowl",
           "description": "Falafel topları, kale yeşilliği, sotelenmiş sebzeler, julian biber, pancarlı kuskus, tahinli yoğurtlu sos",
           "price": "82",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":46,
           "name": "Somon Bowl",
           "description": "100gr somon, avakado, sotelenmiş sebze, mor lahana, kapari, siyah pirinç veya basmati pirinç veya kinoa ile",
           "price": "125",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":47,
           "name": "Körili Tavuk Bowl",
           "description": "Köri soslu tavuk, mevsim yeşillikleri, meksika fasulyesi, sotelenmiş sebzeler, çeri domates, mısır, siyah pirinç veya basmati prinç veya kinoa ile",
           "price": "93",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":48,
           "name": "Köfte Bowl",
           "description": "Izgara Köfte, humus, muhammara, tahinli sos, sotelenmiş sebzeler, siyah pirinç veya basmati pirinç veya kinoa ile",
           "price": "105",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":49,
           "name": "Meksika Bowl",
           "description": "Izgara tavuk, mısır, meksika fasulyesi, guacomole, tortilla cipsi, cheddar peyniri, salsa, siyah pirinç veya basmati pirinç veya kinoa ile",
           "price": "98",
@@ -357,30 +406,35 @@
     {
       "list": [
         {
+          "id":50,
           "name": "Healty Bowl",
           "description": "Muz, çilek, süzme yoğurt, granola, hisdistan cevizi ile",
           "price": "70",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":51,
           "name": "Kakao Bowl",
           "description": "Hurma, muz, granola, ham kakao, hisdistan cevizi ile",
           "price": "72",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":52,
           "name": "Akai Bowl",
           "description": "Böğürtlen, muz, chia tohumu, granola, hisdistan cevizi ile",
           "price": "68",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":53,
           "name": "Granola Cookie Bowl",
           "description": "Rafine şekersiz yulaflı çikolatalı cookie, hisdistan cevizli şekerli karamel, süzme yoğurt, böğürtlen ile",
           "price": "75",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":54,
           "name": "Breakfast Pudding Bowl",
           "description": "Rafine şekersiz pudding, muz, yulaf unlu cookie parçacıkları, böğürtlen ile",
           "price": "74",
@@ -392,30 +446,35 @@
     {
       "list": [
         {
+          "id":55,
           "name": "Avakado Salatası",
           "description": "Avakado, salatalık, çeri domates, nane, kinoa, balsemik sos ile",
           "price": "95",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":56,
           "name": "Kahvaltı Salatası",
           "description": "Ezine peyniri, dilim zeytin, yeşil biber, çeri domates, simit, nar eksi sosu, balzemik sosu ile",
           "price": "78",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":57,
           "name": "Kale Salatası",
           "description": "Kale yeşilliği, yeşil elma, turp, badem parçaları, kuru üzüm, kinoa, hardallı protakallı vinegret sosu ile",
           "price": "94",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":58,
           "name": "Cuenco Salatası",
           "description": "Akdeniz yeşilliği, lollorosso, pancar dilimleri, ceviz, tulum peyniri, tahin sos ile",
           "price": "81",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":59,
           "name": "Sezar Salatası",
           "description": "Marul, ızgara tavuk, kroton, sezar sos, permasan peyniri ile",
           "price": "86",
@@ -427,36 +486,42 @@
     {
       "list": [
         {
+          "id":60,
           "name": "Bademli Kek",
           "description": "Çiğ karabuğday, çiğ badem unu, hurma suyu ile tatlandırılmış",
           "price": "35",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":61,
           "name": "Cuenco Cookie",
           "description": "Hisdistan cevizi şekerli, bitter çikolata parçalı, cevizli, tam tahıl unlu, beyaz çikolata parçacıklı",
           "price": "38",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":62,
           "name": "Unsuz Cookie",
           "description": "Yer fıstığı ezmesi, hurma suyu, çia, çikolata parçacıklı",
           "price": "38",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":63,
           "name": "Havuçlu Dilim Kek",
           "description": "Hurma suyu ile tatlandırılmış, cevizli, tarçınlı, tam buğday unlu",
           "price": "35",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":64,
           "name": "Baks Cheesecake",
           "description": "Hindistan cevizi şekeri, tam buğday unlu, rafine şekersiz, hindistan cevizi ile",
           "price": "42",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":65,
           "name": "Yulaf Chocolate Chip Cookie",
           "description":"Yulaf unu, hurma suyu, bitter çikolata, hisdistan cevizi yağı",
           "price":"39",
@@ -468,36 +533,42 @@
     {
       "list": [
         {
+          "id":66,
           "name": "Makaron",
           "description": "Frambuaz veya limon veya çikolata veya fıstık çeşitleri ile",
           "price": "15",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":67,
           "name": "Affogato",
           "description": "Bir shot espresso, magnum, 30ml sütü",
           "price": "45",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":68,
           "name": "Magnolia",
           "description": "Çilekli, muzlu veya lotus bisküvili",
           "price": "49",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":69,
           "name": "Nutellalı Cookie",
           "description": "Hurma suyu ile tatlandırılmış, cevizli, tarçınlı, tam buğday unlu",
           "price": "35",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":70,
           "name": "Baz Cheesecake",
           "description": "Hindistan cevizi şekeri, tam buğday unlu, rafine şekersiz, hindistan cevizi ile",
           "price": "42",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
+          "id":71,
           "name": "Yulaf Chocolate Chip Cookie",
           "description":"Yulaf unu, hurma suyu, bitter çikolata, hisdistan cevizi yağı",
           "price":"39",
