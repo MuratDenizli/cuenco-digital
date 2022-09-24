@@ -26,7 +26,7 @@ function Homepage() {
             left: 0,
             behavior: 'smooth',
         });
-    })
+    });
 
     return (
         <div>
