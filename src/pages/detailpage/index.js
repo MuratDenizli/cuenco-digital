@@ -2,6 +2,8 @@ import { useNavigate, useParams } from "react-router-dom";
 import './index.css';
 import chevronLeft from './../../assets/icons/chevron-left-solid.svg';
 import timer from './../../assets/icons/timer.svg';
+import price from './../../assets/icons/price.svg';
+import edit from './../../assets/icons/edit.svg';
 import cuenco from './../../assets/images/cuenco-text.svg';
 import cuencoData from './../../data/cuenco-digital.json'
 import { useEffect } from "react";
@@ -43,19 +45,11 @@ function Detailpage() {
                 <div className="detail">
                     <div className="detail-box">
                         <img className="icon" src={timer}></img>
-                        <span className="detail-desc">Hazırlanma Süresi: 15dk</span>
+                        <span className="detail-desc">Hazırlanma Süresi: {data.time}dk</span>
                     </div>
                     <div className="detail-box">
-                        <img className="icon"></img>
-                        <span className="detail-desc"></span>
-                    </div>
-                    <div className="detail-box">
-                        <img className="icon"></img>
-                        <span className="detail-desc"></span>
-                    </div>
-                    <div className="detail-box">
-                        <img className="icon"></img>
-                        <span className="detail-desc"></span>
+                        <img className="icon" src={price}></img>
+                        <span className="detail-desc">Ücret: {data.price} <span className='price-icon'>&#x20BA;</span></span>
                     </div>
                 </div>
             </div>
