@@ -4,11 +4,14 @@ import chevronLeft from './../../assets/icons/chevron-left-solid.svg';
 import timer from './../../assets/icons/timer.svg';
 import cuenco from './../../assets/images/cuenco-text.svg';
 import cuencoData from './../../data/cuenco-digital.json'
+import { useEffect } from "react";
 
 function Detailpage() {
     const { id } = useParams();
     const data = getItem(id);
     const navigate = useNavigate();
+
+   
 
     function getItem(id) {
         let result = {};

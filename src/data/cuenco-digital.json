@@ -217,7 +217,7 @@
           "name": "Cuenco Meze",
           "description": "Muhammara, humus, girit ezmesi, tortilla cipsi",
           "price": "89",
-          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+          "img": "https://ik.imagekit.io/cuenco/Smoothie/Cuenco_Meze_Clqn17GcC.heic?ik-sdk-version=javascript-1.4.3&updatedAt=1664715404119"
         },
         {
           "id": 27,
@@ -410,7 +410,7 @@
           "name": "Healty Bowl",
           "description": "Muz, çilek, süzme yoğurt, granola, hisdistan cevizi ile",
           "price": "70",
-          "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
+          "img": "https://ik.imagekit.io/cuenco/Smoothie/IMG_1188__ilOqtcHo.HEIC?ik-sdk-version=javascript-1.4.3&updatedAt=1664713897207"
         },
         {
           "id": 51,
@@ -792,34 +792,34 @@
       "list": [
         {
           "id": 97,
-          "name": "Chocolate Milk Shake",
+          "name": "Chocolate Milkshake",
           "description": "",
           "price": "45",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
           "id": 98,
-          "name": "Strawberry Milk Shake",
+          "name": "Strawberry Milkshake",
           "description": "",
           "price": "45",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
           "id": 99,
-          "name": "Caramel Milk Shake",
+          "name": "Caramel Milkshake",
           "description": "",
           "price": "45",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         },
         {
           "id": 100,
-          "name": "Vanilla Milk Shake",
+          "name": "Vanilla Milkshake",
           "description": "",
           "price": "45",
           "img": "https://www.fabbricacafe.com/wp-content/uploads/2021/09/serpme.jpg"
         }
       ],
-      "name": "Milk Shake"
+      "name": "Milkshake"
     },
     {
       "list": [

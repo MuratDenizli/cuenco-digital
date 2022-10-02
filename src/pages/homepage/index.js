@@ -11,6 +11,7 @@ function Homepage() {
     const [menuData, setMenuData] = useState(cuencoData.data);
     const [active, setActive] = useState(cuencoData.data[0]);
     const [filterList, setFilterList] = useState(cuencoData.data[0].list);
+    const selectedTab = localStorage.getItem('active');
 
     const handleAnchorClick = (event, name) => {
         event.preventDefault();
@@ -22,10 +23,11 @@ function Homepage() {
 
     useEffect(() => {
         window.scroll({
-            top: 0,
+            top: 20,
             left: 0,
             behavior: 'smooth',
         });
+        // handleAnchorClick(event,)
     });
 
     return (
