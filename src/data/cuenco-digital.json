@@ -626,7 +626,7 @@
           "name": "Makaron",
           "description": "Frambuaz veya limon veya çikolata veya fıstık çeşitleri ile",
           "price": "15",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -634,7 +634,7 @@
           "name": "Affogato",
           "description": "Bir shot espresso, magnum, 30ml sütü",
           "price": "45",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -642,7 +642,7 @@
           "name": "Magnolia",
           "description": "Çilekli, muzlu veya lotus bisküvili",
           "price": "49",
-          "time": 15,
+          "time": 1,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -650,7 +650,7 @@
           "name": "Nutellalı Cookie",
           "description": "Hurma suyu ile tatlandırılmış, cevizli, tarçınlı, tam buğday unlu",
           "price": "35",
-          "time": 15,
+          "time": 1,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -658,7 +658,7 @@
           "name": "Baz Cheesecake",
           "description": "Hindistan cevizi şekeri, tam buğday unlu, rafine şekersiz, hindistan cevizi ile",
           "price": "42",
-          "time": 15,
+          "time": 1,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -666,7 +666,7 @@
           "name": "Yulaf Chocolate Chip Cookie",
           "description": "Yulaf unu, hurma suyu, bitter çikolata, hisdistan cevizi yağı",
           "price": "39",
-          "time": 15,
+          "time": 1,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
       ],
@@ -680,7 +680,7 @@
           "name": "Coca Cola 33cl",
           "description": "",
           "price": "18",
-          "time": 15,
+          "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/Coca-cola330ml_1NJQEvWdY.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664051351747"
         },
         {
@@ -688,7 +688,7 @@
           "name": "Coca Cola Zero 33cl",
           "description": "",
           "price": "18",
-          "time": 15,
+          "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/CocaColaZero330ml__2KR9jViW6.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664051531624"
         },
         {
@@ -696,7 +696,7 @@
           "name": "Fanta",
           "description": "",
           "price": "18",
-          "time": 15,
+          "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/fanta330ml_Kz5HeKRre.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664051821265"
         },
         {
@@ -704,7 +704,7 @@
           "name": "Sprite",
           "description": "",
           "price": "18",
-          "time": 15,
+          "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/sprite330ml_D5Kle6fxC.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664051911814"
         },
         {
@@ -720,7 +720,7 @@
           "name": "San Pelegrino",
           "description": "",
           "price": "25",
-          "time": 15,
+          "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/sanpellegrino_fzBOnzFRR.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664052045100"
         },
         {
@@ -728,7 +728,7 @@
           "name": "Sade Soda",
           "description": "",
           "price": "14",
-          "time": 15,
+          "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/soda_VK49ZaBHG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664052231006"
         },
         {
@@ -736,7 +736,7 @@
           "name": "Icetea Şeftali",
           "description": "",
           "price": "16",
-          "time": 15,
+          "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/icetea_LtsSurAYq.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1664052433073"
         },
         {
@@ -744,14 +744,14 @@
           "name": "Icetea Limon",
           "description": "",
           "price": "16",
-          "time": 15,
+          "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/icetealimon_q3kwmk3Ln.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664053290938"
         },
         {
           "id": 122,
           "name": "Ayran",
           "description": "",
-          "price": "15",
+          "price": "0",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/ayran_twYU82ZKy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664053390739"
         }
@@ -766,7 +766,7 @@
           "name": "Americano",
           "description": "",
           "price": "33",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -774,7 +774,7 @@
           "name": "Espresso",
           "description": "",
           "price": "27",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -782,7 +782,7 @@
           "name": "Filtre Kahve",
           "description": "",
           "price": "33",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -790,7 +790,7 @@
           "name": "Coffee Latte",
           "description": "",
           "price": "38",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -798,7 +798,7 @@
           "name": "Coffee Mocha",
           "description": "Çikolata sos ile",
           "price": "39",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -806,7 +806,7 @@
           "name": "Cappicino",
           "description": "",
           "price": "38",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -814,7 +814,7 @@
           "name": "Maccihato",
           "description": "Karamel sos, süt köpüğü, single espresso",
           "price": "39",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -822,7 +822,7 @@
           "name": "White Chocolate Mocha",
           "description": "Beyaz çikolata sos, süt kreması ile",
           "price": "38",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -830,7 +830,7 @@
           "name": "Flat White",
           "description": "single shot espresso, süt kreması ile",
           "price": "39",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -838,7 +838,7 @@
           "name": "Chmax (Tek kişilik)",
           "description": "Tek kişilik",
           "price": "35",
-          "time": 15,
+          "time": 8,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -846,7 +846,7 @@
           "name": "Chmax (İki kişilik)",
           "description": "İki kişilik",
           "price": "55",
-          "time": 15,
+          "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
       ],
@@ -860,7 +860,7 @@
           "name": "Ice Latte",
           "description": "",
           "price": "42",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -868,7 +868,7 @@
           "name": "Ice Mocha",
           "description": "",
           "price": "43",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -876,7 +876,7 @@
           "name": "Ice Cappicino",
           "description": "",
           "price": "42",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -884,7 +884,7 @@
           "name": "Ice Americano",
           "description": "",
           "price": "40",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -892,7 +892,7 @@
           "name": "Frappe",
           "description": "Çilek, çikolata, karamel",
           "price": "45",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -900,7 +900,7 @@
           "name": "Ice Chocolate",
           "description": "",
           "price": "43",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -908,7 +908,7 @@
           "name": "Ice White Chocolate Mocha",
           "description": "",
           "price": "43",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -916,7 +916,7 @@
           "name": "Frappicino",
           "description": "",
           "price": "44",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
       ],
@@ -930,7 +930,7 @@
           "name": "Chocolate Milkshake",
           "description": "",
           "price": "45",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -938,7 +938,7 @@
           "name": "Strawberry Milkshake",
           "description": "",
           "price": "45",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -946,7 +946,7 @@
           "name": "Caramel Milkshake",
           "description": "",
           "price": "45",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -954,7 +954,7 @@
           "name": "Vanilla Milkshake",
           "description": "",
           "price": "45",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -962,7 +962,7 @@
           "name": "Oreolu Milkshake",
           "description": "",
           "price": "50",
-          "time": 5,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
       ],
@@ -976,7 +976,7 @@
           "name": "Nane Limon Frozen",
           "description": "",
           "price": "47",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -984,7 +984,7 @@
           "name": "Çilek Frozen",
           "description": "",
           "price": "47",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -992,7 +992,7 @@
           "name": "Passion Fruit Mango",
           "description": "",
           "price": "47",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1000,7 +1000,7 @@
           "name": "Elma Frozen",
           "description": "",
           "price": "47",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Frozenlar/IMG_1323_EyQo6U7qq.heic?ik-sdk-version=javascript-1.4.3&updatedAt=1664724808563"
         }
       ],
@@ -1014,7 +1014,7 @@
           "name": "Strawberry Smoothie",
           "description": "",
           "price": "49",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1022,7 +1022,7 @@
           "name": "Chocolate Smoothie",
           "description": "",
           "price": "49",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1030,7 +1030,7 @@
           "name": "Muz Smoothie",
           "description": "",
           "price": "49",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
       ],
@@ -1044,7 +1044,7 @@
           "name": "Lemon Bubble Tea",
           "description": "",
           "price": "50",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1052,7 +1052,7 @@
           "name": "Apple Bubble Tea",
           "description": "",
           "price": "50",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1060,7 +1060,7 @@
           "name": "Blueberry Bubble Tea",
           "description": "",
           "price": "50",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1068,7 +1068,7 @@
           "name": "Strawberry Bubble Tea",
           "description": "",
           "price": "50",
-          "time": 15,
+          "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Bubble_tea/strawbeery_Ey4ChW4Z3.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664912379382"
         }
       ],
@@ -1082,7 +1082,7 @@
           "name": "Zencefil Kombucha",
           "description": "",
           "price": "34",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1090,7 +1090,7 @@
           "name": "Lime Nane Kombucha",
           "description": "",
           "price": "34",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1098,7 +1098,7 @@
           "name": "Yasemin Kombucha",
           "description": "",
           "price": "34",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1106,7 +1106,7 @@
           "name": "Ananas Hibiskus",
           "description": "",
           "price": "34",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1114,7 +1114,7 @@
           "name": "Sade Kombucha",
           "description": "",
           "price": "34",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
       ],
@@ -1128,7 +1128,7 @@
           "name": "Portakal Suyu",
           "description": "",
           "price": "50",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1136,7 +1136,7 @@
           "name": "Sürahi Portakal Suyu",
           "description": "",
           "price": "100",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1144,7 +1144,7 @@
           "name": "Elma Suyu",
           "description": "",
           "price": "54",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1152,7 +1152,7 @@
           "name": "Havuç Suyu",
           "description": "",
           "price": "52",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1160,7 +1160,7 @@
           "name": "Detoks Milks",
           "description": "Elma, portakal, havuç, kereviz",
           "price": "60",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -1168,7 +1168,7 @@
           "name": "Limonata",
           "description": "",
           "price": "45",
-          "time": 15,
+          "time": 5,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
       ],
