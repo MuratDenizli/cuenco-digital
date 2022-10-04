@@ -8,15 +8,19 @@ import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
 function Homepage() {
+    const selectedTab = localStorage.getItem('active') || 0;
     const [menuData, setMenuData] = useState(cuencoData.data);
-    const [active, setActive] = useState(cuencoData.data[0]);
-    const [filterList, setFilterList] = useState(cuencoData.data[0].list);
-    const selectedTab = localStorage.getItem('active');
+    debugger;
+    const [active, setActive] = useState(cuencoData.data[selectedTab]);
+    const [filterList, setFilterList] = useState(cuencoData.data[selectedTab].list);
+
 
     const handleAnchorClick = (event, name) => {
         event.preventDefault();
         const active = cuencoData.data.find(item => item.name === name);
         setActive(active);
+        debugger;
+        localStorage.setItem('active', active.id);
         const filterList = cuencoData.data.find(item => item.name === name).list;
         setFilterList(filterList);
     };
@@ -27,7 +31,7 @@ function Homepage() {
             left: 0,
             behavior: 'smooth',
         });
-        // handleAnchorClick(event,)
+        
     });
 
     return (

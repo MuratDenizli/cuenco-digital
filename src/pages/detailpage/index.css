@@ -42,10 +42,10 @@
 }
 
 .photo {
-  height: 300px;
   margin: 0 auto;
   width: 300px;
   border-radius: 20px;
+  object-fit: contain;
 }
 
 .product {
