@@ -848,6 +848,14 @@
           "price": "55",
           "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
+        },
+        {
+          "id": 130,
+          "name": "Türk Kahvesi",
+          "description": "",
+          "price": "25",
+          "time": 3,
+          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
       ],
       "name": "Sıcak Kahveler"
