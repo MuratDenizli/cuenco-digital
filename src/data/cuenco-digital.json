@@ -754,6 +754,14 @@
           "price": "15",
           "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/ayran_twYU82ZKy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664053390739"
+        },
+        {
+          "id": 131,
+          "name": "Su",
+          "description": "",
+          "price": "15",
+          "time": 0,
+          "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/ayran_twYU82ZKy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664053390739"
         }
       ],
       "name": "İçecekler"
