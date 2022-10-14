@@ -302,7 +302,7 @@
         {
           "id": 32,
           "name": "Cuenco Burger",
-          "description": "200gr hamburger köftesi, karamelize soğan, demiglace sos, patates kızartması ile",
+          "description": "180gr hamburger köftesi, karamelize soğan, demiglace sos, patates kızartması ile",
           "price": "75",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
@@ -310,7 +310,7 @@
         {
           "id": 33,
           "name": "Cheese Burger",
-          "description": "200gr hamburger köftesi, karamelize soğan, demiglace sos, cheddar peyniri, patates kızartması ile",
+          "description": "180gr hamburger köftesi, karamelize soğan, demiglace sos, cheddar peyniri, patates kızartması ile",
           "price": "78",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
@@ -478,7 +478,7 @@
         {
           "id": 50,
           "name": "Healty Bowl",
-          "description": "Muz, çilek, süzme yoğurt, granola, hisdistan cevizi ile",
+          "description": "Muz, çilek, süzme yoğurt, granola, hindistan cevizi ile",
           "price": "70",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Smoothie/IMG_1188__ilOqtcHo.HEIC?ik-sdk-version=javascript-1.4.3&updatedAt=1664713897207"
@@ -486,7 +486,7 @@
         {
           "id": 51,
           "name": "Kakao Bowl",
-          "description": "Hurma, muz, granola, ham kakao, hisdistan cevizi ile",
+          "description": "Hurma, muz, granola, ham kakao, hindistan cevizi ile",
           "price": "72",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
@@ -494,7 +494,7 @@
         {
           "id": 52,
           "name": "Akai Bowl",
-          "description": "Böğürtlen, muz, chia tohumu, granola, hisdistan cevizi ile",
+          "description": "Böğürtlen, muz, chia tohumu, granola, hindistan cevizi ile",
           "price": "68",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
@@ -502,7 +502,7 @@
         {
           "id": 53,
           "name": "Granola Cookie Bowl",
-          "description": "Rafine şekersiz yulaflı çikolatalı cookie, hisdistan cevizli şekerli karamel, süzme yoğurt, böğürtlen ile",
+          "description": "Rafine şekersiz yulaflı çikolatalı cookie, hindistan cevizli şekerli karamel, süzme yoğurt, böğürtlen ile",
           "price": "75",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
@@ -578,7 +578,7 @@
         {
           "id": 61,
           "name": "Cuenco Cookie",
-          "description": "Hisdistan cevizi şekerli, bitter çikolata parçalı, cevizli, tam tahıl unlu, beyaz çikolata parçacıklı",
+          "description": "Hindistan cevizi şekerli, bitter çikolata parçalı, cevizli, tam tahıl unlu, beyaz çikolata parçacıklı",
           "price": "38",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
@@ -610,7 +610,7 @@
         {
           "id": 65,
           "name": "Yulaf Chocolate Chip Cookie",
-          "description": "Yulaf unu, hurma suyu, bitter çikolata, hisdistan cevizi yağı",
+          "description": "Yulaf unu, hurma suyu, bitter çikolata, hindistan cevizi yağı",
           "price": "39",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
@@ -664,7 +664,7 @@
         {
           "id": 71,
           "name": "Yulaf Chocolate Chip Cookie",
-          "description": "Yulaf unu, hurma suyu, bitter çikolata, hisdistan cevizi yağı",
+          "description": "Yulaf unu, hurma suyu, bitter çikolata, hindistan cevizi yağı",
           "price": "39",
           "time": 1,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
@@ -797,7 +797,7 @@
           "id": 83,
           "name": "Coffee Latte",
           "description": "",
-          "price": "38",
+          "price": "40",
           "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -813,7 +813,7 @@
           "id": 85,
           "name": "Cappicino",
           "description": "",
-          "price": "38",
+          "price": "40",
           "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -861,7 +861,7 @@
           "id": 130,
           "name": "Türk Kahvesi",
           "description": "",
-          "price": "25",
+          "price": "27",
           "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
