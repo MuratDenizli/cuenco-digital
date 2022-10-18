@@ -431,7 +431,7 @@
       "list": [
         {
           "id": 45,
-          "name": "Vegan Bowl",
+          "name": "Falafel Bowl",
           "description": "Falafel topları, kale yeşilliği, sotelenmiş sebzeler, julian biber, pancarlı kuskus, tahinli yoğurtlu sos",
           "price": "82",
           "time": 15,
@@ -439,7 +439,7 @@
         },
         {
           "id": 46,
-          "name": "Somon Bowl",
+          "name": "Asaian Somon Bowl",
           "description": "100gr somon, avakado, sotelenmiş sebze, mor lahana, kapari, siyah pirinç veya basmati pirinç veya kinoa ile",
           "price": "125",
           "time": 15,
@@ -447,7 +447,7 @@
         },
         {
           "id": 47,
-          "name": "Körili Tavuk Bowl",
+          "name": "Körili Chicken Bowl",
           "description": "Köri soslu tavuk, mevsim yeşillikleri, meksika fasulyesi, sotelenmiş sebzeler, çeri domates, mısır, siyah pirinç veya basmati prinç veya kinoa ile",
           "price": "93",
           "time": 15,
@@ -455,7 +455,7 @@
         },
         {
           "id": 48,
-          "name": "Köfte Bowl",
+          "name": "Turkish Köfte Bowl",
           "description": "Izgara Köfte, humus, muhammara, tahinli sos, sotelenmiş sebzeler, siyah pirinç veya basmati pirinç veya kinoa ile",
           "price": "105",
           "time": 15,
@@ -463,7 +463,7 @@
         },
         {
           "id": 49,
-          "name": "Meksika Bowl",
+          "name": "Meksika Chicken Bowl",
           "description": "Izgara tavuk, mısır, meksika fasulyesi, guacomole, tortilla cipsi, cheddar peyniri, salsa, siyah pirinç veya basmati pirinç veya kinoa ile",
           "price": "98",
           "time": 15,
