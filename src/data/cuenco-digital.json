@@ -9,7 +9,7 @@
           "description": "Çeçil peyniri, beyaz peynir,burgu peyniri, eski kaşar, hellim peyniri, siyah zeytin, tahin, pekmez, sürk peyniri, süt reçeli, nutella, fit şeftali reçeli, muammara, süzme yoğurtlu kabak, bal, kaymak, fit portakal reçeli, iki dilim su böreği, patates kızartması, söğüş, domates, akdeniz yeşillikleri, ceviz, kayısı, sahanda yumarta, simit ve bir pot çay",
           "price": "270",
           "time": 15,
-          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
+          "img": "https://ik.imagekit.io/cuenco/Kahvalt%C4%B1l%C4%B1klar/serpme_BxXkFoTkp.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667851790065"
         },
         {
           "id": 2,
@@ -468,6 +468,46 @@
           "price": "98",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/meksikabowl_rCZ6RdbJ-.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1665847427077"
+        },
+        {
+          "id": 132,
+          "name": "Brokyl Chicken Bowl",
+          "description": "Barbekü soslu tavuk, brokoli, elma dilim patates kızartması",
+          "price": "105",
+          "time": 15,
+          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
+        },
+        {
+          "id": 133,
+          "name": "Taco Bowl",
+          "description": "180 gr. tavuk, avokado, nane, kapya biber, taco ekmeği ile",
+          "price": "120",
+          "time": 15,
+          "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/tacobowl_mVIBnrjz5.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667807751305"
+        },
+        {
+          "id": 134,
+          "name": "Wing Bowl",
+          "description": "5 adet Meksika soslu tavuk, Akdeniz yeşilliği, mor lahana, basmati, mısır ile",
+          "price": "115",
+          "time": 15,
+          "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/wing_bowl_2kj3HbMID.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667850742717"
+        },
+        {
+          "id": 135,
+          "name": "Meat Bowl",
+          "description": "Dana bonfile julyen, jalapeno biberi, mor soğan, basmati veya siyah pirinç ile",
+          "price": "145",
+          "time": 15,
+          "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/meat_bowl_HbFkV-hzp.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667850730582"
+        },
+        {
+          "id": 136,
+          "name": "Spagetti Chicken Bowl",
+          "description": "Spaghetti, 180 gr. tavuk, avokado, Akdeniz yeşilliği, cherry domates",
+          "price": "102",
+          "time": 15,
+          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
       ],
       "name": "Cuenco Bowls"
@@ -476,11 +516,27 @@
       "id": 12,
       "list": [
         {
+          "id": 137,
+          "name": "Berry Bowl",
+          "description": "Orman meyveleri, muz, granola, hindistan cevizi, cia tohumu ve laktozsuz süt ile",
+          "price": "105",
+          "time": 10,
+          "img": "https://ik.imagekit.io/cuenco/Smoothie/berry_bowls_PMPuFzjEs.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667851867476"
+        },
+        {
+          "id": 138,
+          "name": "Citrus Bowl",
+          "description": "Orman meyveleri, muz, granola, hindistan cevizi, cia tohumu ve laktozsuz süt ile",
+          "price": "90",
+          "time": 10,
+          "img": "https://ik.imagekit.io/cuenco/Smoothie/citrus_vagc8A6po.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667851866702"
+        },
+        {
           "id": 50,
           "name": "Healty Bowl",
           "description": "Muz, çilek, süzme yoğurt, granola, hindistan cevizi ile",
           "price": "70",
-          "time": 15,
+          "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Smoothie/IMG_1188__ilOqtcHo.HEIC?ik-sdk-version=javascript-1.4.3&updatedAt=1664713897207"
         },
         {
@@ -488,7 +544,7 @@
           "name": "Kakao Bowl",
           "description": "Hurma, muz, granola, ham kakao, hindistan cevizi ile",
           "price": "72",
-          "time": 15,
+          "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -496,7 +552,7 @@
           "name": "Akai Bowl",
           "description": "Böğürtlen, muz, chia tohumu, granola, hindistan cevizi ile",
           "price": "68",
-          "time": 15,
+          "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -504,7 +560,7 @@
           "name": "Granola Cookie Bowl",
           "description": "Rafine şekersiz yulaflı çikolatalı cookie, hindistan cevizli şekerli karamel, süzme yoğurt, böğürtlen ile",
           "price": "75",
-          "time": 15,
+          "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
@@ -512,7 +568,7 @@
           "name": "Breakfast Pudding Bowl",
           "description": "Rafine şekersiz pudding, muz, yulaf unlu cookie parçacıkları, böğürtlen ile",
           "price": "74",
-          "time": 15,
+          "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
       ],
