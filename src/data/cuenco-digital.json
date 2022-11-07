@@ -356,10 +356,10 @@
         {
           "id": 38,
           "name": "Mantar Soslu Izgara Tavuk",
-          "description": "Kusku ve sote sebze ile",
+          "description": "Basmati ve sote sebze ile",
           "price": "85",
           "time": 15,
-          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
+          "img": "https://ik.imagekit.io/cuenco/Ana_Yemekler/mantar_soslu_%C4%B1zgara_HeympBZt5.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1667853293349"
         },
         {
           "id": 39,
@@ -375,7 +375,7 @@
           "description": "200gr somon, pesto sos, sote sebze",
           "price": "225",
           "time": 15,
-          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
+          "img": "https://ik.imagekit.io/cuenco/Ana_Yemekler/somon_%C4%B1zgara_dmESnmVU-.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667852066924"
         }
       ],
       "name": "Ana Yemekler"
@@ -615,7 +615,7 @@
           "description": "Marul, ızgara tavuk, kroton, sezar sos, permasan peyniri ile",
           "price": "86",
           "time": 15,
-          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
+          "img": "https://ik.imagekit.io/cuenco/Salatalar/sezar_salata_FmdmoNO0o.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667852249422"
         }
       ],
       "name": "Salatalar"
