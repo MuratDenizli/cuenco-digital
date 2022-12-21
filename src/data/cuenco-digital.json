@@ -1253,7 +1253,7 @@
           "id": 123,
           "name": "Bardak Çay",
           "description": "",
-          "price": "8",
+          "price": "10",
           "time": 1,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -1261,7 +1261,7 @@
           "id": 124,
           "name": "Fincan Çay",
           "description": "",
-          "price": "12",
+          "price": "16",
           "time": 1,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
