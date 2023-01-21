@@ -7,7 +7,7 @@
           "id": 1,
           "name": "Serpme Kahvaltı (2 kişilik)",
           "description": "Çeçil peyniri, beyaz peynir,burgu peyniri, eski kaşar, hellim peyniri, siyah zeytin, tahin, pekmez, sürk peyniri, süt reçeli, nutella, fit şeftali reçeli, muammara, süzme yoğurtlu kabak, bal, kaymak, fit portakal reçeli, iki dilim su böreği, patates kızartması, söğüş, domates, akdeniz yeşillikleri, ceviz, kayısı, sahanda yumarta, simit ve bir pot çay",
-          "price": "270",
+          "price": "330",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Kahvalt%C4%B1l%C4%B1klar/serpme_BxXkFoTkp.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667851790065"
         },
@@ -15,7 +15,7 @@
           "id": 2,
           "name": "Tek Kişilik Kahvaltı",
           "description": "Çeçil peyniri, beyaz peynir, burgu peyniri, eski kaşar, hellim peyniri, siyah zeytin, tahin, pekmez, sürk peyniri, süt reçeli, nutella, fit şeftali reçeli, muammara, bal, kaymak, fit portakal reçeli, su böreği, söğüş, domates, akdeniz yeşillikleri, ceviz, kayısı, haşlanmış yumarta, 2 bardak çay",
-          "price": "135",
+          "price": "145",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -23,7 +23,7 @@
           "id": 3,
           "name": "Fit Kahvaltı",
           "description": "Scramble yumurta, lor peyniri, siyah zeytin, avakado püresi, bir çeşit rafine şekersiz fermente reçel, çeri domates, salatalık, yeşillik, badem unundan pancarlı ev yapımı ekmek",
-          "price": "120",
+          "price": "125",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
@@ -37,7 +37,7 @@
           "id": 4,
           "name": "Sade Omlet",
           "description": "Akdeniz yeşillikleri ile",
-          "price": "35",
+          "price": "55",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -45,7 +45,7 @@
           "id": 5,
           "name": "Fit Omlet",
           "description": "Yumurta beyazından, akdeniz yeşillikleri ile",
-          "price": "37",
+          "price": "65",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -53,7 +53,7 @@
           "id": 6,
           "name": "Peynirli Omlet",
           "description": "Beyaz peynirli, akdeniz yeşillikleri ile",
-          "price": "40",
+          "price": "63",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -61,7 +61,7 @@
           "id": 7,
           "name": "Otlu Omlet",
           "description": "Maydonoz, dereotu, akdeniz yeşillikleri ile",
-          "price": "42",
+          "price": "62",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -69,7 +69,7 @@
           "id": 8,
           "name": "Mantarlı Kaşarlı Omlet",
           "description": "Mantar, kaşarpeyniri, akdeniz yeşillikleri ile",
-          "price": "43",
+          "price": "63",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Omletler/mantarl%C4%B1_omlet_rAtkTbC1j.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1666595517821"
         }
@@ -83,7 +83,7 @@
           "id": 9,
           "name": "Sade Menemen",
           "description": "Yumurta, demko sos, yeşil biber",
-          "price": "48",
+          "price": "68",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -91,7 +91,7 @@
           "id": 10,
           "name": "Sucuklu Kaşarlı Menemen",
           "description": "Yumurta, demko sos, yeşil biber, kaşar peyniri, kasap sucuğu",
-          "price": "55",
+          "price": "75",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
@@ -110,18 +110,10 @@
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
-          "id": 12,
-          "name": "Cheddar Sosis Kruvasan",
-          "description": "Cheddar sosis, sade kruvasan, scramble yumarta, akdeniz yeşillikleri ile",
-          "price": "85",
-          "time": 15,
-          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
-        },
-        {
           "id": 13,
           "name": "Cuenco Fit Reçel Kruvansan Tabağı",
           "description": "Üç çeşit rafine şekersiz reçel (portakal, vişne, çilek), tam buğday unlu kruvasan",
-          "price": "85",
+          "price": "95",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -129,7 +121,7 @@
           "id": 14,
           "name": "Avakado Folded Kruvasan",
           "description": "Kruvan, avokado püresi, folded yumurta, akdeniz yeşillikleri ile",
-          "price": "75",
+          "price": "105",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -137,7 +129,7 @@
           "id": 15,
           "name": "Cuenco Tuna Kruvasan",
           "description": "Ton balığı, çeri domates, avokado, fesleğen, dereotu, mısır",
-          "price": "73",
+          "price": "85",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -145,34 +137,12 @@
           "id": 16,
           "name": "Cuenco Benedict",
           "description": "Kruvasan, dana janbon, poşe yumurta, hollandaise sos, akdeniz yeşillikleri ile",
-          "price": "78",
+          "price": "95",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
       ],
       "name": "Kruvasanlar"
-    },
-    {
-      "id": 4,
-      "list": [
-        {
-          "id": 17,
-          "name": "Nutellalı Pancakes",
-          "description": "Nutella, 4 dilim pankek, muz, çilek, çikolata sosu",
-          "price": "64",
-          "time": 15,
-          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
-        },
-        {
-          "id": 18,
-          "name": "Cuenco Pancakes",
-          "description": "Fit reçel (Portakal, çilek, ahudu), çilek, muz",
-          "price": "67",
-          "time": 15,
-          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
-        }
-      ],
-      "name": "Pancakes"
     },
     {
       "id": 5,
@@ -181,7 +151,7 @@
           "id": 19,
           "name": "Avakado Poşe Yumurta",
           "description": "Ekşi maya ekmek üzeri; avokado, poşe yumurta, akdeniz yeşillikleri ile",
-          "price": "67",
+          "price": "85",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -189,7 +159,7 @@
           "id": 20,
           "name": "English Breakfast",
           "description": "Brioche ekmeği üzerine; folded yumurta, kokteyl sosis, çeri domates, mantar, havuç sote",
-          "price": "67",
+          "price": "105",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -197,7 +167,7 @@
           "id": 21,
           "name": "Avakado Folded Brioche",
           "description": "Brioche ekmeği üzerine; avakado püresi, folded yumurta, akdeniz yeşillikleri ile",
-          "price": "69",
+          "price": "87",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
@@ -211,7 +181,7 @@
           "id": 22,
           "name": "Trüf Tost",
           "description": "Brioche ekmeği üzerine; emmantel peyneri, dana bacon, trüf yağı, akdeniz yeşillikleri ile",
-          "price": "65",
+          "price": "80",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -219,7 +189,7 @@
           "id": 23,
           "name": "Bazlama Tost",
           "description": "Cheddar peyniri, kaşar peyniri, pesto sos, akdeniz yeşillikleri ile",
-          "price": "63",
+          "price": "93",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Tostlar/bazlama_tost_W_Nd0tD8Qp.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1666596256406"
         },
@@ -249,7 +219,7 @@
           "id": 26,
           "name": "Cuenco Meze",
           "description": "Muhammara, humus, girit ezmesi, tortilla cipsi",
-          "price": "89",
+          "price": "125",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Smoothie/Cuenco_Meze_Clqn17GcC.heic?ik-sdk-version=javascript-1.4.3&updatedAt=1664715404119"
         },
@@ -257,7 +227,7 @@
           "id": 27,
           "name": "Çıtır Tavuk",
           "description": "Churs patetes, acı sos, sweet chiilli sos",
-          "price": "63",
+          "price": "83",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -265,7 +235,7 @@
           "id": 28,
           "name": "Falafel",
           "description": "Altına tahin; yoğurt ile altı adet falafel topu",
-          "price": "60",
+          "price": "90",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -273,7 +243,7 @@
           "id": 29,
           "name": "Coenco Guacomelo Sos ile Tortilla Cips",
           "description": "Avokado püresi, kapya biber, çeri domates ve tortilla ekmeği",
-          "price": "78",
+          "price": "95",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -281,7 +251,7 @@
           "id": 30,
           "name": "Parmasanlı Trüf Patetes Kızartması",
           "description": "Parmasan trüf yağı ile",
-          "price": "58",
+          "price": "98",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -289,7 +259,7 @@
           "id": 31,
           "name": "Edamame",
           "description": "Soya fasulyesi ve deniz tuzu ile",
-          "price": "45",
+          "price": "65",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
@@ -303,7 +273,7 @@
           "id": 32,
           "name": "Cuenco Burger",
           "description": "180gr hamburger köftesi, karamelize soğan, demiglace sos, patates kızartması ile",
-          "price": "75",
+          "price": "95",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -311,7 +281,7 @@
           "id": 33,
           "name": "Cheese Burger",
           "description": "180gr hamburger köftesi, karamelize soğan, demiglace sos, cheddar peyniri, patates kızartması ile",
-          "price": "78",
+          "price": "105",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -319,7 +289,7 @@
           "id": 34,
           "name": "Avokado Burger",
           "description": "180gr etsiz köfte, avokado, avakado püresi, dilimlenmiş avakado, akdeniz yeşillikleri ile",
-          "price": "95",
+          "price": "135",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -327,7 +297,7 @@
           "id": 35,
           "name": "Cuenco Tavuk Burger",
           "description": "180gr fileto tavuk, demiglace sos, cheddar peyniri, patetes kızartması ile",
-          "price": "71",
+          "price": "91",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
@@ -349,7 +319,7 @@
           "id": 37,
           "name": "Izgara Tavuk",
           "description": "180gr tavuk fileto, patetes kızartması, basmati pilav ile",
-          "price": "85",
+          "price": "100",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -357,7 +327,7 @@
           "id": 38,
           "name": "Mantar Soslu Izgara Tavuk",
           "description": "Basmati ve sote sebze ile",
-          "price": "85",
+          "price": "110",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Ana_Yemekler/mantar_soslu_%C4%B1zgara_HeympBZt5.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1667853293349"
         },
@@ -365,7 +335,7 @@
           "id": 39,
           "name": "Bibimbap",
           "description": "Kore usulü baharatlı kıyma, göz yumurta, sriracha soslu basmati, kabak spagetti, salatalık turşusu, kimchi ile",
-          "price": "98",
+          "price": "135",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -373,7 +343,7 @@
           "id": 40,
           "name": "Izgara Somon",
           "description": "200gr somon, pesto sos, sote sebze",
-          "price": "225",
+          "price": "250",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Ana_Yemekler/somon_%C4%B1zgara_dmESnmVU-.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667852066924"
         }
@@ -387,7 +357,7 @@
           "id": 41,
           "name": "Spagetti Bolonez",
           "description": "Bolonez sos ile",
-          "price": "65",
+          "price": "88",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Makarnalar/IMG_1333_oRyHRo4xR.HEIC?ik-sdk-version=javascript-1.4.3&updatedAt=1664724873723"
         },
@@ -395,7 +365,7 @@
           "id": 42,
           "name": "Tavuklu Penne",
           "description": "Kremalı tavuk, mantar, pesto sos ile",
-          "price": "64",
+          "price": "84",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -403,15 +373,7 @@
           "id": 43,
           "name": "Cuenco Fettuccine",
           "description": "Krema porçini mantarlı, trüf yağ ile",
-          "price": "71",
-          "time": 15,
-          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
-        },
-        {
-          "id": 44,
-          "name": "Filizlendirilmiş Çiğ Karabuğday Makarnası",
-          "description": "Domates sos ile",
-          "price": "65",
+          "price": "85",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -419,7 +381,7 @@
           "id": 127,
           "name": "Sinop Mantısı",
           "description": "Sarımsaklı yoğurt ve ceviz ile",
-          "price": "90",
+          "price": "110",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
@@ -433,7 +395,7 @@
           "id": 45,
           "name": "Falafel Bowl",
           "description": "Falafel topları, kale yeşilliği, sotelenmiş sebzeler, julian biber, pancarlı kuskus, tahinli yoğurtlu sos",
-          "price": "82",
+          "price": "100",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/falafel_bowl_5ECtNekgD.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1666596952052"
         },
@@ -441,7 +403,7 @@
           "id": 46,
           "name": "Asaian Somon Bowl",
           "description": "100gr somon, avakado, sotelenmiş sebze, mor lahana, kapari, siyah pirinç veya basmati pirinç veya kinoa ile",
-          "price": "125",
+          "price": "155",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/somon_bowl_sCMxh_PlL.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1666597484504"
         },
@@ -449,7 +411,7 @@
           "id": 47,
           "name": "Körili Chicken Bowl",
           "description": "Köri soslu tavuk, mevsim yeşillikleri, meksika fasulyesi, sotelenmiş sebzeler, çeri domates, mısır, siyah pirinç veya basmati prinç veya kinoa ile",
-          "price": "93",
+          "price": "120",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/IMG_1387_kIUCUWJ3u.HEIC?ik-sdk-version=javascript-1.4.3&updatedAt=1664898459568"
         },
@@ -457,7 +419,7 @@
           "id": 48,
           "name": "Turkish Köfte Bowl",
           "description": "Izgara Köfte, humus, muhammara, tahinli sos, sotelenmiş sebzeler, siyah pirinç veya basmati pirinç veya kinoa ile",
-          "price": "105",
+          "price": "135",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/IMG_1396_U3wVeyyuU.HEIC?ik-sdk-version=javascript-1.4.3&updatedAt=1664898458730"
         },
@@ -465,7 +427,7 @@
           "id": 49,
           "name": "Meksika Chicken Bowl",
           "description": "Izgara tavuk, mısır, meksika fasulyesi, guacomole, tortilla cipsi, cheddar peyniri, salsa, siyah pirinç veya basmati pirinç veya kinoa ile",
-          "price": "98",
+          "price": "120",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/meksikabowl_rCZ6RdbJ-.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1665847427077"
         },
@@ -473,7 +435,7 @@
           "id": 132,
           "name": "Brokyl Chicken Bowl",
           "description": "Barbekü soslu tavuk, brokoli, elma dilim patates kızartması",
-          "price": "105",
+          "price": "125",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -481,7 +443,7 @@
           "id": 133,
           "name": "Taco Bowl",
           "description": "180 gr. tavuk, avokado, nane, kapya biber, taco ekmeği ile",
-          "price": "120",
+          "price": "130",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/tacobowl_mVIBnrjz5.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667807751305"
         },
@@ -489,7 +451,7 @@
           "id": 134,
           "name": "Wing Bowl",
           "description": "5 adet Meksika soslu tavuk, Akdeniz yeşilliği, mor lahana, basmati, mısır ile",
-          "price": "115",
+          "price": "125",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/wing_bowl_2kj3HbMID.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667850742717"
         },
@@ -497,7 +459,7 @@
           "id": 135,
           "name": "Meat Bowl",
           "description": "Dana bonfile julyen, jalapeno biberi, mor soğan, basmati veya siyah pirinç ile",
-          "price": "145",
+          "price": "155",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco_Bowls/meat_bowl_HbFkV-hzp.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667850730582"
         },
@@ -505,7 +467,7 @@
           "id": 136,
           "name": "Spagetti Chicken Bowl",
           "description": "Spaghetti, 180 gr. tavuk, avokado, Akdeniz yeşilliği, cherry domates",
-          "price": "102",
+          "price": "122",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
@@ -519,7 +481,7 @@
           "id": 137,
           "name": "Berry Bowl",
           "description": "Orman meyveleri, muz, granola, hindistan cevizi, cia tohumu ve laktozsuz süt ile",
-          "price": "105",
+          "price": "115",
           "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Smoothie/berry_bowls_PMPuFzjEs.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667851867476"
         },
@@ -527,7 +489,7 @@
           "id": 138,
           "name": "Citrus Bowl",
           "description": "Orman meyveleri, muz, granola, hindistan cevizi, cia tohumu ve laktozsuz süt ile",
-          "price": "90",
+          "price": "95",
           "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Smoothie/citrus_vagc8A6po.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667851866702"
         },
@@ -535,7 +497,7 @@
           "id": 50,
           "name": "Healty Bowl",
           "description": "Muz, çilek, süzme yoğurt, granola, hindistan cevizi ile",
-          "price": "70",
+          "price": "105",
           "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Smoothie/IMG_1188__ilOqtcHo.HEIC?ik-sdk-version=javascript-1.4.3&updatedAt=1664713897207"
         },
@@ -543,7 +505,7 @@
           "id": 51,
           "name": "Kakao Bowl",
           "description": "Hurma, muz, granola, ham kakao, hindistan cevizi ile",
-          "price": "72",
+          "price": "92",
           "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -551,23 +513,7 @@
           "id": 52,
           "name": "Akai Bowl",
           "description": "Böğürtlen, muz, chia tohumu, granola, hindistan cevizi ile",
-          "price": "68",
-          "time": 10,
-          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
-        },
-        {
-          "id": 53,
-          "name": "Granola Cookie Bowl",
-          "description": "Rafine şekersiz yulaflı çikolatalı cookie, hindistan cevizli şekerli karamel, süzme yoğurt, böğürtlen ile",
-          "price": "75",
-          "time": 10,
-          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
-        },
-        {
-          "id": 54,
-          "name": "Breakfast Pudding Bowl",
-          "description": "Rafine şekersiz pudding, muz, yulaf unlu cookie parçacıkları, böğürtlen ile",
-          "price": "74",
+          "price": "105",
           "time": 10,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         }
@@ -581,7 +527,7 @@
           "id": 55,
           "name": "Avakado Salatası",
           "description": "Avakado, salatalık, çeri domates, nane, kinoa, balsemik sos ile",
-          "price": "95",
+          "price": "125",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
@@ -589,23 +535,15 @@
           "id": 56,
           "name": "Kahvaltı Salatası",
           "description": "Ezine peyniri, dilim zeytin, yeşil biber, çeri domates, simit, nar eksi sosu, balzemik sosu ile",
-          "price": "78",
+          "price": "87",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Salatalar/310164953_2234675560031871_1935283205060581400_n_zK7lyePTU.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1666596201477"
-        },
-        {
-          "id": 57,
-          "name": "Kale Salatası",
-          "description": "Kale yeşilliği, yeşil elma, turp, badem parçaları, kuru üzüm, kinoa, hardallı protakallı vinegret sosu ile",
-          "price": "94",
-          "time": 15,
-          "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
         {
           "id": 58,
           "name": "Cuenco Salatası",
           "description": "Akdeniz yeşilliği, lollorosso, pancar dilimleri, ceviz, tulum peyniri, tahin sos ile",
-          "price": "81",
+          "price": "93",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Salatalar/IMG_1394_B-xj1Yja0.HEIC?ik-sdk-version=javascript-1.4.3&updatedAt=1664898838016"
         },
@@ -613,7 +551,7 @@
           "id": 59,
           "name": "Sezar Salatası",
           "description": "Marul, ızgara tavuk, kroton, sezar sos, permasan peyniri ile",
-          "price": "86",
+          "price": "98",
           "time": 15,
           "img": "https://ik.imagekit.io/cuenco/Salatalar/sezar_salata_FmdmoNO0o.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667852249422"
         }
@@ -735,7 +673,7 @@
           "id": 72,
           "name": "Coca Cola 33cl",
           "description": "",
-          "price": "18",
+          "price": "25",
           "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/Coca-cola330ml_1NJQEvWdY.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664051351747"
         },
@@ -743,7 +681,7 @@
           "id": 73,
           "name": "Coca Cola Zero 33cl",
           "description": "",
-          "price": "18",
+          "price": "25",
           "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/CocaColaZero330ml__2KR9jViW6.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664051531624"
         },
@@ -751,7 +689,7 @@
           "id": 74,
           "name": "Fanta",
           "description": "",
-          "price": "18",
+          "price": "25",
           "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/fanta330ml_Kz5HeKRre.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664051821265"
         },
@@ -759,7 +697,7 @@
           "id": 75,
           "name": "Sprite",
           "description": "",
-          "price": "18",
+          "price": "25",
           "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/sprite330ml_D5Kle6fxC.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664051911814"
         },
@@ -767,7 +705,7 @@
           "id": 128,
           "name": "RedBull",
           "description": "",
-          "price": "25",
+          "price": "35",
           "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/redbull_S_QPq8e3s.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664901258886"
         },
@@ -775,7 +713,7 @@
           "id": 76,
           "name": "San Pelegrino",
           "description": "",
-          "price": "25",
+          "price": "35",
           "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/sanpellegrino_fzBOnzFRR.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664052045100"
         },
@@ -783,7 +721,7 @@
           "id": 77,
           "name": "Sade Soda",
           "description": "",
-          "price": "14",
+          "price": "18",
           "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/soda_VK49ZaBHG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664052231006"
         },
@@ -791,7 +729,7 @@
           "id": 78,
           "name": "Icetea Şeftali",
           "description": "",
-          "price": "18",
+          "price": "25",
           "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/icetea_LtsSurAYq.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1664052433073"
         },
@@ -799,7 +737,7 @@
           "id": 79,
           "name": "Icetea Limon",
           "description": "",
-          "price": "18",
+          "price": "25",
           "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/icetealimon_q3kwmk3Ln.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1664053290938"
         },
@@ -807,7 +745,7 @@
           "id": 122,
           "name": "Ayran",
           "description": "",
-          "price": "15",
+          "price": "16",
           "time": 0,
           "img": "https://ik.imagekit.io/cuenco/%C4%B0%C3%A7ecekler/ayran_twYU82ZKy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664053390739"
         },
@@ -885,7 +823,7 @@
           "id": 87,
           "name": "White Chocolate Mocha",
           "description": "Beyaz çikolata sos, süt kreması ile",
-          "price": "38",
+          "price": "48",
           "time": 3,
           "img": "https://ik.imagekit.io/cuenco/Cuenco/logo_B55g8VkoF.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1664911724807"
         },
