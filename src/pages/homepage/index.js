@@ -10,7 +10,6 @@ import { Link } from 'react-router-dom';
 function Homepage() {
     const selectedTab = localStorage.getItem('active') || 0;
     const [menuData, setMenuData] = useState(cuencoData.data);
-    debugger;
     const [active, setActive] = useState(cuencoData.data[selectedTab]);
     const [filterList, setFilterList] = useState(cuencoData.data[selectedTab].list);
 
@@ -19,7 +18,6 @@ function Homepage() {
         event.preventDefault();
         const active = cuencoData.data.find(item => item.name === name);
         setActive(active);
-        debugger;
         localStorage.setItem('active', active.id);
         const filterList = cuencoData.data.find(item => item.name === name).list;
         setFilterList(filterList);
